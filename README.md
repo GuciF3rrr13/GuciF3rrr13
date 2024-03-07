@@ -58,5 +58,25 @@
 <br>
 
 
+
+![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuciF3rrr13&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuciF3rrr13)](https://github.com/GuciF3rrr13/github-readme-stats)
+
+
+
+<br>
+<img src="https://cdn.metatime.com/landing/blog/1686575019blobid0.jpg" alt="favorite character">
+
+
+<br/>
+
+<div align="center">
+<h2>
+    Hope to work with u soon
+</h2>
+
+</div>
  
 
