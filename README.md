@@ -64,12 +64,6 @@
 
 
 
-<br>
-<img src="https://cdn.metatime.com/landing/blog/1686575019blobid0.jpg" alt="favorite character">
-
-
-<br/>
-
 <div align="center">
 <h2>
     Hope to work with u soon
