@@ -1,5 +1,3 @@
-"# GuciF3rrr13" 
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuciF3rrr13.GuciF3rrr13" />
 
 <h1 align="center">
